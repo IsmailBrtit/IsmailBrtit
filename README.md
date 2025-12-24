@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Ismail BRTIT</h1>
-<h3 align="center">Junior Software & Data Engineer — curious to tackle any problem</h3>
+<h3 align="center">Junior  Data Engineer — curious to tackle any problem</h3>
 
 
 <h3 align="left">Connect with me:</h3>
